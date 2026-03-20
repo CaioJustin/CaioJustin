@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Meu nome e caio justino tenho 21 anos ,Atualmente, compartilho meus projetos, aprendizados e evolução como desenvolvedor no GitHub.</p>
+<p align="left">Meu nome é Caio Justino. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI Dendezeiros e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFBA.<br><br>Tenho interesse em desenvolvimento de software, aprendizado contínuo e na criação de soluções práticas por meio da programação.</p>
 
 ###
 
-<h2 align="left">Front End</h2>
+<h2 align="left">Linguagem e Ferramentas</h2>
 
 ###
 
@@ -18,40 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-
-<h2 align="left">Back End</h2>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">Databases</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h2 align="left">Ferramentas</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
